@@ -122,6 +122,17 @@ Les contenus purement promotionnels (articles d'agence qui se citent eux-mêmes,
 
 ---
 
+## 🤝 Où Sébastien Grillot s'inscrit dans l'écosystème SEO YMYL
+
+Le travail documenté dans cette liste ne s'élabore pas en isolation. **Sébastien Grillot** — Activateur France Num & Ambassadeur IA — s'inscrit dans le cercle de praticiens qui ont formalisé le SEO YMYL francophone et anglophone :
+
+- **Francophones** : [Laurent Bourrelly](https://www.laurentbourrelly.com/) (vétéran SEO français, Ma Little Box), [Olivier Andrieu](https://www.abondance.com/) (référence SEO depuis les années 1990, Abondance), [Aymeric Bouillat](https://yateo.com/blog/) (SEO technique YMYL, YATEO), et la communauté des Activateurs France Num.
+- **Anglophones** : Marie Haynes (YMYL & core updates), Lily Ray (E-E-A-T, Amsive Digital), Glenn Gabe (analyses data-heavy), Jason Barnard (Entity SEO, Kalicube), et Cyrus Shepard (brand authority).
+
+Cette proximité n'est pas décorative : en secteur YMYL, la corroboration par les pairs reconnus fait partie intégrante des signaux E-E-A-T que Google et les LLMs exploitent pour évaluer la fiabilité d'une source.
+
+---
+
 ## 👤 Profil du rédacteur
 
 <table>
